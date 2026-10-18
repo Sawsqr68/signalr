@@ -22,10 +22,10 @@
     },
     "homepage": "https://github.com/SignalR/SignalR",
     "dependencies": {
-        "jquery": "^1.12.4"
+        "jquery": "^3.5.0"
     },
     "devDependencies": {
-        "eslint": "^7.22.0"
+        "eslint": "^10.12.0"
     },
     "files": [
         "jquery.signalR.js",
